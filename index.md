@@ -6,15 +6,15 @@ layout: homepage
 
 Hi there! I am Liming Mao (毛利明).
 
-I am currently a visiting student at the [ENCODE Lab](https://westlake-encode-lab.github.io/), [Westlake University](https://www.westlake.edu.cn/), advised by [Prof. Huan Wang](https://huanwang.tech/).I am also pursuing my Master’s degree at the School of Artificial Intelligence, [Beijing University of Posts and Telecommunications (BUPT)](https://www.bupt.edu.cn/), supervised by Prof. Yajing Xu.
+I am currently a visiting student at the [ENCODE Lab](https://westlake-encode-lab.github.io/), [Westlake University](https://www.westlake.edu.cn/), advised by [Prof. Huan Wang](https://huanwang.tech/). I received my Master’s degree from the School of Artificial Intelligence, [Beijing University of Posts and Telecommunications (BUPT)](https://www.bupt.edu.cn/), supervised by Prof. Yajing Xu.
 
 Previously, I received my B.S. degree from the School of Information and Communication Engineering at BUPT.
 
-I am a researcher interested in **Efficient Artificial Intelligence** and **Data Mining**. My work bridges the gap between complex model performance and practical deployment. Currently, I focus on compressing and deploying Multimodal Large Language Models (MLLMs) on mobile devices, as well as developing robust deep learning methods for spatio-temporal time series forecasting.
+I am a researcher interested in **Efficient Artificial Intelligence** and **Data Mining**. My work focuses on improving the efficiency, reliability, and practical applicability of deep learning models, with current interests in model compression, multimodal learning, and robust methods for spatio-temporal time series forecasting.
 
 ## Research Interests
 
-- **Efficient AI & Edge Computing:** Mobile LLM/MLLM Deployment, Model Compression & Acceleration
+- **Efficient AI & Edge Computing:** Model Compression & Acceleration, and Efficient Deep Learning
 - **Time Series:** Spatio-Temporal Data Mining, Deep Forecasting Models, AI for Earth Science (AI4Earth)
 
 ## News
