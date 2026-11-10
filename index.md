@@ -19,8 +19,8 @@ I am a researcher interested in **Efficient Artificial Intelligence** and **Data
 
 ## News
 
-- **[Jan. 12, 2026]** Started my visiting position at the ENCODE Lab, Westlake University, advised by Prof. Huan Wang.
-
+- **[Sep. 2026]** Started my position as a Research Assistant at the [ENCODE Lab](https://westlake-encode-lab.github.io/), [Westlake University](https://www.westlake.edu.cn/), under the supervision of [Prof. Huan Wang](https://huanwang.tech/).
+- **[Jan. 2026]** Joined the ENCODE Lab at Westlake University as a visiting student, advised by Prof. Huan Wang.
 
 {% include_relative _includes/publications.md %}
 
