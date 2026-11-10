@@ -6,7 +6,7 @@ layout: homepage
 
 Hi there! I am Liming Mao (毛利明).
 
-I am currently a visiting student at the [ENCODE Lab](https://westlake-encode-lab.github.io/), [Westlake University](https://www.westlake.edu.cn/), advised by [Prof. Huan Wang](https://huanwang.tech/). I received my Master’s degree from the School of Artificial Intelligence, [Beijing University of Posts and Telecommunications (BUPT)](https://www.bupt.edu.cn/), supervised by Prof. Yajing Xu.
+I am currently a Research Assistant at the [ENCODE Lab](https://westlake-encode-lab.github.io/), [Westlake University](https://www.westlake.edu.cn/), working under the supervision of [Prof. Huan Wang](https://huanwang.tech/). I received my Master's degree from the School of Artificial Intelligence at [Beijing University of Posts and Telecommunications (BUPT)](https://www.bupt.edu.cn/), where I was advised by Prof. Yajing Xu.
 
 Previously, I received my B.S. degree from the School of Information and Communication Engineering at BUPT.
 
